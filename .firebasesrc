@@ -1,9 +1,0 @@
-{
-  "projects": {
-    "default": "ut-dnr-ugs-energy-dev",
-    "prod": "ut-dnr-ugs-energy-dev"
-  },
-  "targets": {},
-  "etags": {},
-  "dataconnectEmulatorConfig": {}
-}
