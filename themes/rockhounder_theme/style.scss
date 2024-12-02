@@ -1,0 +1,177 @@
+/*custom filter buttons*/
+.widget-filter button.jimu-btn {
+    background-color: #000;
+    color: #fff;
+    width: 215px;
+    height: 45px;
+    font-size: 16px;
+}
+.widget-filter button.jimu-btn.reset-button {
+    width: 35px;
+    height: 35px;
+}
+.widget-filter button.jimu-btn:hover {
+    background-color: #000;
+}
+@media only screen and (min-width: 577px) {
+    .filter-item-pill .jimu-btn .jimu-icon {
+        height: 35px;
+        width: 35px;
+}}
+.filter-item {
+    padding-bottom: 0px !important;
+}
+.filter-items-inline .filter-item .filter-item-inline .filter-item-pill {
+    margin: 4px 4px !important;
+}
+.search-input-con input {
+    color: #fff;
+}
+
+/*mobile/tablet basemap, filter, search widget config*/
+.popper-box .expand-mobile-panel {
+    background-color: #373737;
+    height: 180px !important;
+}
+.expand-mobile-panel-touch-container .expand-mobile-panel-bar {
+    background-color: #fff;
+}
+.mobile-panel-content-header .panel-title {
+    color: #fff;
+}
+.esri-layer-list__item-label {
+    color: #000;
+}
+.esri-layer-list__item-title {
+    color: #fff;
+}
+.esri-layer-list__item-toggle {
+    color: #000;
+}
+.popper-box.floating-content {
+    background-color: #1f1f1f;
+}
+.panel-header .icon-btn-sizer {
+    color: #fff;
+}
+.panel-header.floating-header {
+    background: #1f1f1f;
+}
+@media only screen and (max-width: 992px) {
+    .widget-filter button.jimu-btn {
+        width: 170px;
+}}
+@media only screen and (max-width: 576px) {
+    .widget-filter button.jimu-btn {
+        width: 156px;
+        height: 32px;
+        font-size: 14px;
+}}
+@media only screen and (max-width: 576px) {
+    .filter-item-pill .jimu-btn .jimu-icon {
+        width: 20px;
+        height: 20px;
+    }}
+
+/*search bar config*/
+.search-input-con .input-wrapper {
+    background-color: rgb(0, 0, 0);
+}
+.search-button .icon-btn-sizer {
+    color: #000
+}
+
+/*make collapsable window tab visible always*/
+.jimu-btn.sidebar-controller.btn-default {
+    position: relative;
+    z-index: 1001;
+}
+
+/*basemap gallery style config*/
+@media only screen and (max-width: 576px) {
+    .esri-basemap-gallery__item-container {
+        background-color: #373737 !important;
+}}
+.esri-basemap-gallery__item-container {
+    background-color: #1f1f1f;
+}
+
+/*map layers style config*/
+    .jimu-widget.esri-layer-list.esri-widget {
+        background-color: #373737;
+}
+    .esri-layer-list__item-container {
+        background-color: #373737;
+}
+.jimu-widget .widget-layerlist {
+    background-color: #1f1f1f;
+}
+
+/*pagination buttons, article list*/
+.pagination-item .page-link {
+    background-color: rgb(43, 43, 43);
+}
+
+/*photo scroll arrows config*/
+.widget-image .image-gallery-button {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.widget-image .image-gallery-button:hover {
+    background-color: #000;
+}
+
+/*map layers icon and popup config*/
+.popper-box .nav-tabs .nav-link:not(:disabled):not(.disabled).active {
+    background-color: #373737;
+    color: #fff;
+}
+
+/*basemap and layer list popup config for mobile*/
+@media only screen and (max-width: 576px) {
+.basemap-map-tool.esri-basemap-gallery {
+    background-color: #373737;
+}}
+@media only screen and (max-width: 576px) {
+.layers-map-tool.esri-layer-list {
+    background-color: #373737;
+}}
+@media only screen and (max-width: 576px) {
+.layers-map-tool.esri-layer-list .esri-layer-list__item {
+    background-color: #373737;
+}}
+@media only screen and (max-width: 576px) {
+.esri-legend {
+    background-color: #373737;
+}}
+
+/*widget controller buttons styling*/
+.widget-controller .jimu-btn {
+    border-radius: 0px;
+}
+.widget-controller .jimu-btn.active {
+    background-color: #000;
+
+}
+.widget-controller .jimu-icon {
+    color: rgb(226, 226, 226);
+}
+.widget-controller .jimu-btn.active .jimu-icon {
+    color: #c4522e;
+}
+
+/*map controls buttons styling*/
+.exbmap-ui-tool.exbmap-ui-tool-icon-selected {
+    color: #c4522e !important;
+    background-color: #000 !important;
+}
+
+/*mobile map margin top adjustment for map widgets*/
+@media only screen and (max-width: 576px) {
+.exbmap-ui.exbmap-ui-group.flex-column {
+    padding-top: 5px;
+}}
+
+/*share link popup box styling*/
+.popper {
+    background-color: #373737;
+}
