@@ -146,17 +146,19 @@
 
 /*widget controller buttons styling*/
 .widget-controller .jimu-btn {
-    border-radius: 0px;
+    border-radius: 0px !important;
 }
 .widget-controller .jimu-btn.active {
     background-color: #000;
-
 }
 .widget-controller .jimu-icon {
     color: rgb(226, 226, 226);
 }
 .widget-controller .jimu-btn.active .jimu-icon {
-    color: #c4522e;
+    color: #c4522e !important;
+}
+.widget-controller .jimu-btn:hover .jimu-icon {
+    color: #c4522e !important;
 }
 
 /*map controls buttons styling*/
