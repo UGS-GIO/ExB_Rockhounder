@@ -18,9 +18,56 @@
     }
   },
   "": {
-    "svg": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 5.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2ZM6.5 7.5A.5.5 0 0 1 7 7h1.5v4.5h1a.5.5 0 0 1 0 1h-3a.5.5 0 0 1 0-1h1V8H7a.5.5 0 0 1-.5-.5Z\" fill=\"#000\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16Zm0-1A7 7 0 1 0 8 1a7 7 0 0 0 0 14Z\" fill=\"#000\"></path></svg>?token=ovxTmjve2lV8E2CjW5FqZYm4WujSrkTR-ehyTphh1ihNUw3K8ewVSHg0i0WglBuV8qG-WoHSd-syeA6d3J4N-Zy6ktPM2HsMN6ZU7n_nIn2D8bjL3AYBBH2M48WnE1zi4CL4tSEbx6JIgzHFnPGnXJJ8R8v1IP2ZNQ1JeLBE1-ZTaSCCJsF1VUA4bA3226bC09wV2bVR6hITWIIuaA-x-H6AMFt0Vs3r9MmtuOKigY8.?token=ovxTmjve2lV8E2CjW5FqZYm4WujSrkTR-ehyTphh1ihNUw3K8ewVSHg0i0WglBuV8qG-WoHSd-syeA6d3J4N-Zy6ktPM2HsMN6ZU7n_nIn2D8bjL3AYBBH2M48WnE1zi4CL4tSEbx6JIgzHFnPGnXJJ8R8v1IP2ZNQ1JeLBE1-ZTaSCCJsF1VUA4bA3226bC09wV2bVR6hITWIIuaA-x-H6AMFt0Vs3r9MmtuOKigY8.?token=3NKHt6i2urmWtqOuugvr9fGmK2hfQNpaDbegPKKg5wZy1LgEdk9GangCoEqwj_I-QE1e9cxqaQCH5FSbApOUdzb48QdDM8jhMSZEJ-1JDfiEXkUmGR2N94NG39OGMwqF4b2glcvL8pVD9uuwc1BPNJZz_GhNCLWuF7hJu8kR2UZBVLtWqzie7mpE3wak64JOGLHB8xzciOkVfXMjqpLC-1YGKh7hltSAg8AXH3t2IIY.",
+    "svg": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M8 5.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2ZM6.5 7.5A.5.5 0 0 1 7 7h1.5v4.5h1a.5.5 0 0 1 0 1h-3a.5.5 0 0 1 0-1h1V8H7a.5.5 0 0 1-.5-.5Z\" fill=\"#000\"></path><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16Zm0-1A7 7 0 1 0 8 1a7 7 0 0 0 0 14Z\" fill=\"#000\"></path></svg>?token=ovxTmjve2lV8E2CjW5FqZYm4WujSrkTR-ehyTphh1ihNUw3K8ewVSHg0i0WglBuV8qG-WoHSd-syeA6d3J4N-Zy6ktPM2HsMN6ZU7n_nIn2D8bjL3AYBBH2M48WnE1zi4CL4tSEbx6JIgzHFnPGnXJJ8R8v1IP2ZNQ1JeLBE1-ZTaSCCJsF1VUA4bA3226bC09wV2bVR6hITWIIuaA-x-H6AMFt0Vs3r9MmtuOKigY8.?token=ovxTmjve2lV8E2CjW5FqZYm4WujSrkTR-ehyTphh1ihNUw3K8ewVSHg0i0WglBuV8qG-WoHSd-syeA6d3J4N-Zy6ktPM2HsMN6ZU7n_nIn2D8bjL3AYBBH2M48WnE1zi4CL4tSEbx6JIgzHFnPGnXJJ8R8v1IP2ZNQ1JeLBE1-ZTaSCCJsF1VUA4bA3226bC09wV2bVR6hITWIIuaA-x-H6AMFt0Vs3r9MmtuOKigY8.?token=3NKHt6i2urmWtqOuugvr9fGmK2hfQNpaDbegPKKg5wZy1LgEdk9GangCoEqwj_I-QE1e9cxqaQCH5FSbApOUdzb48QdDM8jhMSZEJ-1JDfiEXkUmGR2N94NG39OGMwqF4b2glcvL8pVD9uuwc1BPNJZz_GhNCLWuF7hJu8kR2UZBVLtWqzie7mpE3wak64JOGLHB8xzciOkVfXMjqpLC-1YGKh7hltSAg8AXH3t2IIY.?token=3NKHt6i2urmWtqOuugvr9bowYGMlYEgtGK-KfD65dZ1e4SwFQUTBk1vkUwJssSlEqwWI3CJeN9YJjiB8t5PU7oVKNSJOk22Ebmvqh9e-4MpqBbGL1Go2zzbzKJpf9rUA0YJH2HoBmCCHvx1DTGuVvmfbz1tycXqiZ1Eat1tcUs49t-wDCrdi4z9TaSR9d03EYWpYb77f-GeVFT5QcZFHfMl-7JCyMKzUDtp6BlveD-I.?token=3NKHt6i2urmWtqOuugvr9bowYGMlYEgtGK-KfD65dZ1e4SwFQUTBk1vkUwJssSlE5z-ebKnHrfJiKZ5Tbna2sAqGZw_zDIMwXdwnhPDCeVen6k-za5sGhzryOCvmi26lLAfXo_sVaUJHy7oW0u9MEEY6NL23g2njPALISxCRXn2dr70B116sLUGksZILHwCJ2WHZFx37Wio_ihWyesLly-IziD64WnKawBvm48_w420.",
     "properties": {
       "filename": ""
+    }
+  },
+  "1724767552845.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1724767552845.png",
+    "properties": {
+      "filename": "1724767552845.png",
+      "originalName": "favicon.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1724767552845.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1732719599651.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1732719599651.png",
+    "properties": {
+      "filename": "1732719599651.png",
+      "originalName": "x icon.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1732719599651.png",
+      "inlineSvg": false
+    }
+  },
+  "1732723307790.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1732723307790.png",
+    "properties": {
+      "filename": "1732723307790.png",
+      "originalName": "x_icon.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1732723307790.png",
+      "inlineSvg": false
+    }
+  },
+  "1732723944540.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1732723944540.png",
+    "properties": {
+      "filename": "1732723944540.png",
+      "originalName": "icon_X.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1732723944540.png",
+      "inlineSvg": false
+    }
+  },
+  "1732725163796.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1732725163796.png",
+    "properties": {
+      "filename": "1732725163796.png",
+      "originalName": "x_icon.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1732725163796.png",
+      "isUploaded": true,
+      "inlineSvg": false
     }
   }
 }
